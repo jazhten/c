@@ -3,6 +3,6 @@
 int main()
 {
     cs1010_println_string("Test");
-    printf("2");
+    printf("23");
     return 0;
 }
